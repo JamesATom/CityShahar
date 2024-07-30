@@ -1,0 +1,11 @@
+name: my-app  # Name of your app on DigitalOcean
+type: NODEJS
+
+jobs:
+  static:  # For Node.js apps, you usually define a 'build' job
+    build:
+      command: yarn build
+
+  web: 
+    run:
+      command: yarn start

@@ -1,0 +1,13 @@
+name: service-providers-listing  # Name of your app on DigitalOcean
+type: NODEJS
+
+services:
+  - name: web
+    build_command: yarn install && npx prisma generate && yarn build
+    source_dir: ./
+    http_port: 8080
+    instance_count: 1
+    instance_size_slug: basic-xxs
+    envs:
+      - key: NODE_ENV
+        value: production

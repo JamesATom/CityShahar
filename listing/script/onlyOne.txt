@@ -1,0 +1,402 @@
+[
+    {
+        "id": 7733,
+        "viewName": {
+            "ru": "Продается 3-комнатная квартира − 148 м²",
+            "uz": "3 xonali kvartira sotiladi − 148 m²",
+            "en": "3-room apartment for sale − 148 m²"
+        },
+        "boardName": {
+            "ru": "Продается 3-комнатная квартира − 148 м²",
+            "uz": "3 xonali kvartira sotiladi − 148 m²",
+            "en": "3-room apartment for sale − 148 m²"
+        },
+        "category": {
+            "id": 4,
+            "type": {
+                "id": 1,
+                "key": "sale",
+                "name": {
+                    "ru": "Продажа",
+                    "uz": "Sotuv",
+                    "en": "Sale"
+                },
+                "secondaryName": {
+                    "ru": "Купить",
+                    "uz": "Sotib olish",
+                    "en": "Buy"
+                },
+                "totalCount": 3545,
+                "children": []
+            },
+            "name": {
+                "ru": "Квартира в новостройке",
+                "uz": "Yangi binodagi kvartira",
+                "en": "Apartment in a new building"
+            }
+        },
+        "statusKey": "active",
+        "routeKey": "sale",
+        "price": {
+            "uzs": 1169584960,
+            "usd": 92000,
+            "rub": 8303763,
+            "eur": 84824
+        },
+        "priceByUnit": {
+            "uzs": 7894698,
+            "usd": 621,
+            "rub": 56050,
+            "eur": 573
+        },
+        "unit": "squaremeter",
+        "currency": "USD",
+        "description": {
+            "ru": "Продается 3-комнатный дом со всем необходимым оборудованием. Если я не смогу ответить на ваш вопрос, пришлите мне телеграмму, вся информация будет дана подробно.",
+            "uz": "3 хоналик уй икта сан узел, барча шароит бор жихозлари билан бирга сотилади. Кунгирогингизга жавоб бера олмасам, телеграмдан йозинг, албатта барча маълумот батафсил берилади.",
+            "en": "A 3-room house is for sale with all necessary equipment. If I can't answer your question, please send me a telegram, all the information will be given in detail."
+        },
+        "address": {
+            "area": {
+                "ru": "улица Тарона",
+                "uz": "Tarona ko'chasi",
+                "en": "Tarona Street"
+            },
+            "house": {
+                "ru": "15/4",
+                "uz": "15/4",
+                "en": "15/4"
+            },
+            "geoLocation": {
+                "latitude": 40.371889,
+                "longitude": 71.804928
+            },
+            "fullAddress": {
+                "ru": "Ферганская область, Фергана, улица Тарона, 15/4",
+                "uz": "Farg'ona viloyati, Farg'ona, Tarona ko'chasi, 15/4",
+                "en": "Fergana region, Fergana, Tarona street, 15/4"
+            },
+            "metros": [],
+            "addressRouteKey": "fargonacity",
+            "addressTypeKey": "District"
+        },
+        "phone": "+998979952704",
+        "videoLink": null,
+        "viewCount": 120,
+        "isCommissioned": true,
+        "user": {
+            "id": 8792,
+            "firstName": "ID",
+            "lastName": "8792",
+            "role": {
+                "id": 1,
+                "key": "owner",
+                "name": {
+                    "ru": "Собственник",
+                    "uz": "Egasi",
+                    "en": "Owner"
+                }
+            },
+            "avatarUrl": null,
+            "avatarSet": null
+        },
+        "layoutImageSets": [],
+        "imageSets": [
+            {
+                "guid": "d60d2c7d-1320-43b7-b462-b0f0ba3494f8",
+                "original": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/d60d2c7d-1320-43b7-b462-b0f0ba3494f8.webp",
+                "w300": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/d60d2c7d-1320-43b7-b462-b0f0ba3494f8.w300.webp",
+                "w450": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/d60d2c7d-1320-43b7-b462-b0f0ba3494f8.w450.webp",
+                "w600": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/d60d2c7d-1320-43b7-b462-b0f0ba3494f8.w600.webp",
+                "w900": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/d60d2c7d-1320-43b7-b462-b0f0ba3494f8.w900.webp"
+            },
+            {
+                "guid": "cd136719-59bb-4a1c-867b-d2a0c4b0992a",
+                "original": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/cd136719-59bb-4a1c-867b-d2a0c4b0992a.webp",
+                "w300": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/cd136719-59bb-4a1c-867b-d2a0c4b0992a.w300.webp",
+                "w450": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/cd136719-59bb-4a1c-867b-d2a0c4b0992a.w450.webp",
+                "w600": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/cd136719-59bb-4a1c-867b-d2a0c4b0992a.w600.webp",
+                "w900": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/cd136719-59bb-4a1c-867b-d2a0c4b0992a.w900.webp"
+            },
+            {
+                "guid": "db1cbd11-8a0d-4518-a15a-91a62b62e8ed",
+                "original": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/db1cbd11-8a0d-4518-a15a-91a62b62e8ed.webp",
+                "w300": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/db1cbd11-8a0d-4518-a15a-91a62b62e8ed.w300.webp",
+                "w450": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/db1cbd11-8a0d-4518-a15a-91a62b62e8ed.w450.webp",
+                "w600": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/db1cbd11-8a0d-4518-a15a-91a62b62e8ed.w600.webp",
+                "w900": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/db1cbd11-8a0d-4518-a15a-91a62b62e8ed.w900.webp"
+            },
+            {
+                "guid": "a4dc21a9-33e9-4ddc-995f-3d18ffc979bc",
+                "original": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/a4dc21a9-33e9-4ddc-995f-3d18ffc979bc.webp",
+                "w300": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/a4dc21a9-33e9-4ddc-995f-3d18ffc979bc.w300.webp",
+                "w450": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/a4dc21a9-33e9-4ddc-995f-3d18ffc979bc.w450.webp",
+                "w600": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/a4dc21a9-33e9-4ddc-995f-3d18ffc979bc.w600.webp",
+                "w900": "https://cityshahar.fra1.digitaloceanspaces.com/images/sale/a4dc21a9-33e9-4ddc-995f-3d18ffc979bc.w900.webp"
+            }
+        ],
+        "generalAttributes": [
+            {
+                "groupName": {
+                    "ru": "О квартире",
+                    "uz": "Kvartira haqida",
+                    "en": "About the apartment"
+                },
+                "attributes": [
+                    {
+                        "id": 1,
+                        "name": {
+                            "ru": "Общая площадь",
+                            "uz": "Umumiy maydon",
+                            "en": "total area"
+                        },
+                        "unitMeasurement": "squaremeter",
+                        "value": {
+                            "ru": "148",
+                            "uz": "148",
+                            "en": "148"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": {
+                            "ru": "Комнат",
+                            "uz": "Xonalar",
+                            "en": "Rooms"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "3",
+                            "uz": "3",
+                            "en": "3"
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "name": {
+                            "ru": "Этаж",
+                            "uz": "Qavat",
+                            "en": "Floor"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "1",
+                            "uz": "1",
+                            "en": "1"
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "name": {
+                            "ru": "Этажей в здании",
+                            "uz": "Binoning qavatlari",
+                            "en": "Floors in the building"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "4",
+                            "uz": "4",
+                            "en": "4"
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "name": {
+                            "ru": "Высота потолка",
+                            "uz": "Shift balandligi",
+                            "en": "Ceiling height"
+                        },
+                        "unitMeasurement": "meter",
+                        "value": {
+                            "ru": "3.3",
+                            "uz": "3.3",
+                            "en": "3.3"
+                        }
+                    },
+                    {
+                        "id": 95,
+                        "name": {
+                            "ru": "Продажа в ипотеку",
+                            "uz": "Ipotekaga sotish",
+                            "en": "Sale with mortgage"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Нет",
+                            "uz": "Yo'q",
+                            "en": "No"
+                        }
+                    },
+                    {
+                        "id": 22,
+                        "name": {
+                            "ru": "Ремонт",
+                            "uz": "Ta'mir",
+                            "en": "Repair"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Евро",
+                            "uz": "Yevro",
+                            "en": "Euro"
+                        }
+                    },
+                    {
+                        "id": 27,
+                        "name": {
+                            "ru": "Санузел",
+                            "uz": "Sanuzel",
+                            "en": "Bathroom"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "2 и более",
+                            "uz": "2 va ortiq",
+                            "en": "2 or more"
+                        }
+                    },
+                    {
+                        "id": 28,
+                        "name": {
+                            "ru": "Кухонная плита",
+                            "uz": "Oshxona plitasi",
+                            "en": "Kitchen stove"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Газовая",
+                            "uz": "Gas",
+                            "en": "Gas"
+                        }
+                    },
+                    {
+                        "id": 29,
+                        "name": {
+                            "ru": "Отопление",
+                            "uz": "Isitish ",
+                            "en": "Heating"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Есть",
+                            "uz": "Bor",
+                            "en": "Eat"
+                        }
+                    },
+                    {
+                        "id": 40,
+                        "name": {
+                            "ru": "Вид из окна",
+                            "uz": "Derazadan ko'rinish",
+                            "en": "View from the window"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Во двор",
+                            "uz": "Hovliga",
+                            "en": "In the yard"
+                        }
+                    }
+                ]
+            },
+            {
+                "groupName": {
+                    "ru": "О доме",
+                    "uz": "Uy haqida",
+                    "en": "About the house"
+                },
+                "attributes": [
+                    {
+                        "id": 42,
+                        "name": {
+                            "ru": "Материал стен",
+                            "uz": "Devor materiali",
+                            "en": "Wall material"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Кирпичный",
+                            "uz": "G'ishtli",
+                            "en": "Brick"
+                        }
+                    },
+                    {
+                        "id": 45,
+                        "name": {
+                            "ru": "Год постройки",
+                            "uz": "Qurilish yili",
+                            "en": "Year of construction"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "2016",
+                            "uz": "2016",
+                            "en": "2016"
+                        }
+                    },
+                    {
+                        "id": 46,
+                        "name": {
+                            "ru": "Пассажирский лифт",
+                            "uz": "Passajir lifti",
+                            "en": "Passenger elevator"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Нет",
+                            "uz": "Yo'q",
+                            "en": "No"
+                        }
+                    },
+                    {
+                        "id": 47,
+                        "name": {
+                            "ru": "Грузовой лифт",
+                            "uz": "Yuk lifti",
+                            "en": "Service lift"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Нет",
+                            "uz": "Yo'q",
+                            "en": "No"
+                        }
+                    },
+                    {
+                        "id": 49,
+                        "name": {
+                            "ru": "Мусоропровод",
+                            "uz": "Chiqindi quvuri",
+                            "en": "Garbage chute"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Нет",
+                            "uz": "Yo'q",
+                            "en": "No"
+                        }
+                    },
+                    {
+                        "id": 50,
+                        "name": {
+                            "ru": "Парковка",
+                            "uz": "Avtoturargoh",
+                            "en": "Parking"
+                        },
+                        "unitMeasurement": "empty",
+                        "value": {
+                            "ru": "Наземная",
+                            "uz": "Yer usti",
+                            "en": "Ground"
+                        }
+                    }
+                ]
+            }
+        ],
+        "isFavorite": false,
+        "isHidden": false,
+        "createdAt": "2024-04-22T06:01:08.53903Z",
+        "updatedAt": "2024-04-22T06:21:27.707406Z",
+        "publishedAt": "2024-04-22T06:21:27.707407Z"
+    }
+]
